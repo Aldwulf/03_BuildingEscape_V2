@@ -1,3 +1,5 @@
+*.vs
+
 */Build
 */Binaries
 */DerivedDataCache
@@ -6,4 +8,7 @@
 
 BuildingEscape_V2/Content/StarterContent/
 
+*.sln
+*.suo
 *VC.db
+*.VC.opendb
